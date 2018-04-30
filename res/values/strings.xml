@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">M_Learning4SocialSkills</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_occupation">Occupation</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_lecturer">Lecturer</string>
+    <string name="title_activity_student">Student</string>
+    <string name="title_activity_admin">Admin</string>
+
+    <string-array name="occupation_array">
+        <item>Lecturer</item>
+        <item>Student</item>
+        <item>Admin</item>
+    </string-array>
+
+    <string name="title_activity_student_home">StudentHome</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
